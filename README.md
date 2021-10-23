@@ -8,6 +8,10 @@ In the project directory, you should run:
 
 ### `npm install`
 
+## Important
+
+Before running this project, you should create a .env file and add the API URL   how its indicate into the .env.example file
+
 ## Run Project
 
 In the project directory, you can run:
